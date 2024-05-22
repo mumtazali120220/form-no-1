@@ -1,0 +1,15 @@
+.heading {
+  text-align: center;
+  background-color: rgb(110, 95, 95);
+  margin: auto;
+  font-size: 100px;
+}
+.search-bar {
+  border: 2px dotted #ccc; /* Dotted border */
+  border-radius: 50px;
+  padding: 10px;
+  width: 95%;
+  outline: none;
+  font-size: 30px;
+  border-color: black;
+}
